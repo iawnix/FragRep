@@ -6,15 +6,15 @@
 2. 如果有其它键长的需求, 请修改./src/util/constants.py
 
 # Install
-conda create -n fragrep python=3.12
-conda activate fragrep
-pip install .
+`conda create -n fragrep python=3.12`
+`conda activate fragrep`
+`pip install .`
 
 # Usage
-FragRep -h
+`FragRep -h`
 
 # Test
-cd ./test
-./run_test.sh
+`cd ./test`
+`./run_test.sh`
 
 
